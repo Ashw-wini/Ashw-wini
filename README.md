@@ -59,10 +59,10 @@
 
 ### 📊 GitHub Stats & Activity
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ashwini1123869&show_icons=true&theme=dark&hide_border=true&count_private=true" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashwini1123869&layout=compact&theme=dark&hide_border=true" height="165" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ashw-wini&show_icons=true&theme=dark&hide_border=true&count_private=true" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashw-wini&layout=compact&theme=dark&hide_border=true" height="165" alt="Top Languages" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ashwini1123869&theme=dark&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ashw-wini&theme=dark&hide_border=true" alt="GitHub Streak" />
 </div>
