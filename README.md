@@ -1,16 +1,10 @@
-<div align="center">
-  <img src="./header.gif" width="460" alt="working-from" />
-</div>
+![working-from](./header.gif)
+
+**FRONT-END BACK-END DEVOPS GENERATIVE AI CLOUD DATABASES APIS TESTING SECURITY VERSION CONTROL**
 
 <br/>
 
-<div align="center">
-  <b>FRONT-END • BACK-END • DEVOPS • GENERATIVE AI • CLOUD • DATABASES • APIs • TESTING • SECURITY • VERSION CONTROL</b>
-</div>
-
-<br/>
-
-### 💻 Languages
+### Languages
 <div>
   <img src="https://img.shields.io/badge/-HTML-000?style=flat&logo=html5&logoColor=E34F26" alt="HTML" />
   <img src="https://img.shields.io/badge/-CSS-000?style=flat&logo=css3&logoColor=1572B6" alt="CSS" />
@@ -24,7 +18,7 @@
 
 <br/>
 
-### 🚀 Frameworks & Libraries
+### Frameworks & Libraries
 <div>
   <img src="https://img.shields.io/badge/-Bootstrap-000?style=flat&logo=bootstrap&logoColor=7952B3" alt="Bootstrap" />
   <img src="https://img.shields.io/badge/-Tailwind_CSS-000?style=flat&logo=tailwind-css&logoColor=38B2AC" alt="Tailwind CSS" />
@@ -42,7 +36,7 @@
 
 <br/>
 
-### 🗄️ Databases
+### Databases
 <div>
   <img src="https://img.shields.io/badge/-MongoDB-000?style=flat&logo=mongodb&logoColor=47A248" alt="MongoDB" />
   <img src="https://img.shields.io/badge/-MySQL-000?style=flat&logo=mysql&logoColor=4479A1" alt="MySQL" />
@@ -51,7 +45,7 @@
 
 <br/>
 
-### 🛠️ Tools & Platforms
+### Tools & Platforms
 <div>
   <img src="https://img.shields.io/badge/-Node.js-000?style=flat&logo=nodedotjs&logoColor=339933" alt="Node.js" />
   <img src="https://img.shields.io/badge/-Vercel-000?style=flat&logo=vercel&logoColor=white" alt="Vercel" />
