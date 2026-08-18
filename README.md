@@ -1,62 +1,58 @@
-<div align="center">
-  <img src="./header.gif" width="100%" alt="Header GIF"/>
-  
-  <br/><br/>
-  
-  ### ⚡ `FRONT-END` • `BACK-END` • `DEVOPS` • `GENERATIVE AI` • `CLOUD` • `DATABASES` • `APIs` • `TESTING` • `SECURITY` • `VERSION CONTROL` ⚡
+![working-from](./header.gif)
+
+FRONT-END BACK-END DEVOPS GENERATIVE AI CLOUD DATABASES APIS TESTING SECURITY VERSION CONTROL
+
+<br/>
+
+### Languages
+<div>
+  <img src="https://img.shields.io/badge/-HTML-000?style=flat&logo=html5&logoColor=E34F26" alt="HTML" />
+  <img src="https://img.shields.io/badge/-CSS-000?style=flat&logo=css3&logoColor=1572B6" alt="CSS" />
+  <img src="https://img.shields.io/badge/-JavaScript-000?style=flat&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/-Java-000?style=flat&logo=openjdk&logoColor=ED8B00" alt="Java" />
+  <img src="https://img.shields.io/badge/-C%2B%2B-000?style=flat&logo=c%2B%2B&logoColor=00599C" alt="C++" />
+  <img src="https://img.shields.io/badge/-Python-000?style=flat&logo=python&logoColor=3776AB" alt="Python" />
+  <img src="https://img.shields.io/badge/-TypeScript-000?style=flat&logo=typescript&logoColor=3178C6" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/-SQL-000?style=flat&logo=postgresql&logoColor=4479A1" alt="SQL" />
 </div>
 
 <br/>
 
-### 💻 Languages
+### Frameworks & Libraries
 <div>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/-Bootstrap-000?style=flat&logo=bootstrap&logoColor=7952B3" alt="Bootstrap" />
+  <img src="https://img.shields.io/badge/-Tailwind_CSS-000?style=flat&logo=tailwind-css&logoColor=38B2AC" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/-ReactJS-000?style=flat&logo=react&logoColor=61DAFB" alt="ReactJS" />
+  <img src="https://img.shields.io/badge/-Material_UI-000?style=flat&logo=mui&logoColor=007FFF" alt="Material UI" />
+  <img src="https://img.shields.io/badge/-Shadcn-000?style=flat&logo=shadcnui&logoColor=white" alt="Shadcn" />
+  <img src="https://img.shields.io/badge/-Three.js-000?style=flat&logo=threedotjs&logoColor=white" alt="Three.js" />
+  <img src="https://img.shields.io/badge/-Next.js-000?style=flat&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/-Angular-000?style=flat&logo=angular&logoColor=DD0031" alt="Angular" />
+  <img src="https://img.shields.io/badge/-Vite-000?style=flat&logo=vite&logoColor=646CFF" alt="Vite" />
+  <img src="https://img.shields.io/badge/-Express-000?style=flat&logo=express&logoColor=white" alt="Express" />
+  <img src="https://img.shields.io/badge/-Firebase-000?style=flat&logo=firebase&logoColor=FFCA28" alt="Firebase" />
+  <img src="https://img.shields.io/badge/-Astro-000?style=flat&logo=astro&logoColor=BC52EE" alt="Astro" />
 </div>
 
 <br/>
 
-### 🚀 Frameworks & Libraries
+### Databases
 <div>
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/ReactJS-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="ReactJS" />
-  <img src="https://img.shields.io/badge/Material_UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" alt="Material UI" />
-  <img src="https://img.shields.io/badge/Shadcn_UI-000000?style=for-the-badge&logo=shadcnui&logoColor=white" alt="Shadcn UI" />
-  <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white" alt="Three.js" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
-  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
-  <img src="https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white" alt="Astro" />
+  <img src="https://img.shields.io/badge/-MongoDB-000?style=flat&logo=mongodb&logoColor=47A248" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/-MySQL-000?style=flat&logo=mysql&logoColor=4479A1" alt="MySQL" />
+  <img src="https://img.shields.io/badge/-PostgreSQL-000?style=flat&logo=postgresql&logoColor=4169E1" alt="PostgreSQL" />
 </div>
 
 <br/>
 
-### 🗄️ Databases
+### Tools & Platforms
 <div>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-</div>
-
-<br/>
-
-### 🛠️ Tools & Platforms
-<div>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
+  <img src="https://img.shields.io/badge/-Node.js-000?style=flat&logo=nodedotjs&logoColor=339933" alt="Node.js" />
+  <img src="https://img.shields.io/badge/-Vercel-000?style=flat&logo=vercel&logoColor=white" alt="Vercel" />
+  <img src="https://img.shields.io/badge/-Linux-000?style=flat&logo=linux&logoColor=FCC624" alt="Linux" />
+  <img src="https://img.shields.io/badge/-Git-000?style=flat&logo=git&logoColor=F05032" alt="Git" />
+  <img src="https://img.shields.io/badge/-GitHub-000?style=flat&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/-Hugging_Face-000?style=flat&logo=huggingface&logoColor=FFD21E" alt="Hugging Face" />
 </div>
 
 <br/>
